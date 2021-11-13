@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  Way
-//
-//  Created by Николай Кавкин on 13.11.2021.
-//
 
 import UIKit
 import MapKit
